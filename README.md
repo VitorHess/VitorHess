@@ -2,7 +2,7 @@
 
 🎓 Estudante dedicado de tecnologia e programação, estou em busca de oportunidades de estágio para desenvolver minhas habilidades e adquirir experiência prática.
 
-💻 Estou focado em aprender desenvolvimento web e mobile, com conhecimentos em HTML, CSS e JavaScript para criação de interfaces. Além disso, estou explorando o desenvolvimento backend com Node.js e também tenho interesse em aprender Java para aplicações web e desktop.
+💻 Estou focado em aprender desenvolvimento web e mobile, com conhecimentos em HTML, CSS e JavaScript e Bootstrap para responsividade, junto de SASS, com o objetivo da criação de interfaces. Além disso, estou explorando o desenvolvimento backend com Node.js e também estudo Java para aplicações web e desktop.
 
 🔍 Tenho interesse crescente em ciência de dados e aprendizado de máquina, e estou iniciando minha jornada de aprendizado em Python, especialmente em aplicações de Machine Learning, e também em SQL para manipulação de dados.
 
