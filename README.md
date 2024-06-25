@@ -2,10 +2,8 @@
 
 🎓 Estudante dedicado de tecnologia e programação, estou em busca de oportunidades de estágio para desenvolver minhas habilidades e adquirir experiência prática.
 
-💻 Estou focado em aprender desenvolvimento web e mobile, com conhecimentos em HTML, CSS e JavaScript e Bootstrap para responsividade, junto de SASS, com o objetivo da criação de interfaces. Além disso, estou explorando o desenvolvimento backend com Node.js e também estudo Java para aplicações web e desktop.
+💻 Tenho um forte foco no desenvolvimento back-end, com habilidades em Node.js, Spring e Django para criar soluções robustas e escaláveis. Possuo experiência em Java para aplicações web e desktop, além de Python para desenvolvimento web e ciência de dados. Estou aprofundando meu conhecimento em SQL para manipulação e gerenciamento de dados.
 
-🔍 Tenho interesse crescente em ciência de dados e aprendizado de máquina, e estou iniciando minha jornada de aprendizado em Python, especialmente em aplicações de Machine Learning, e também em SQL para manipulação de dados.
+📚 Estou comprometido em aprender continuamente e enfrentar novos desafios no desenvolvimento back-end.
 
-📚 Sempre buscando novos conhecimentos e desafios, estou aberto a oportunidades de aprendizado e colaboração.
-
-🌱 Determinado a crescer e contribuir para o mundo da tecnologia enquanto estou em constante evolução!
+🌱 Determinado a crescer e contribuir para o mundo da tecnologia enquanto continuo minha jornada de aprendizado!
